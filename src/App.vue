@@ -28,7 +28,7 @@ onMounted(() => {
       },
       {
         id: 3,
-        text: 'Call a friend',
+        text: 'Water plants',
         completed: false,
         createdAt: new Date()
       }
@@ -195,6 +195,10 @@ body {
   max-width: 550px;
   margin: 0 auto;
   padding: 2rem 1rem;
+  box-sizing: border-box;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 header {
@@ -202,10 +206,6 @@ header {
   align-items: center;
   justify-content: center;
   margin-bottom: 2rem;
-}
-
-.logo {
-  margin-right: 1rem;
 }
 
 h1 {
