@@ -1,14 +1,12 @@
 # todo-app
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple and efficient todo list application built with Vue 3 and Vite. This app allows users to create, edit, and manage their daily tasks with an intuitive drag-and-drop interface.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+Features:
+- Add and delete tasks
+- Mark tasks as complete
+- Persist tasks in local storage
+- Responsive design
 
 ## Project Setup
 
