@@ -22,13 +22,13 @@ onMounted(() => {
       },
       {
         id: 2,
-        text: 'Clean the house',
+        text: 'Water plants',
         completed: false,
         createdAt: new Date()
       },
       {
         id: 3,
-        text: 'Water plants',
+        text: 'Clean the house',
         completed: false,
         createdAt: new Date()
       }
